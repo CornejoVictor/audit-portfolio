@@ -1,6 +1,6 @@
 # 📋 Audit Portfolio — Victor Cornejo Casusol
 
-Economist with 6+ years of experience in public sector audit and control at the **Contraloría General de la República del Perú**. This portfolio highlights selected audit reports from my participation in control milestone commissions (*Hitos de Control*), focused on public infrastructure contracts and procurement processes.
+Economist with experience in public sector audit and control at the **Contraloría General de la República del Perú**. This portfolio highlights selected audit reports from my participation in control milestone commissions (*Hitos de Control*), focused on public infrastructure contracts and procurement processes.
 
 ---
 
