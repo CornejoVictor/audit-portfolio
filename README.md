@@ -26,8 +26,12 @@ Non-compliance with the conditions for submitting the *Work Programme* required 
 **Entity:** Ministerio de Desarrollo Agrario y Riego (MIDAGRI)
 **Year:** 2024
 
-**Key finding:**
-The Technical Committee failed to identify that the winning economic proposal included exclusions and commercial conditions that did not comply with the *Final Scope* document (procurement bases), which required the bid to reflect the full cost of the service — creating a risk of cost overruns during contract execution.
+**Key findings:**
+The control review of the bidding documents, evaluation and scoring of final proposals for the Technical Assistance Service for the Chavimochic Phase III project, identified adverse situations:
+- **Unjustified "Compliant" ratings:** the Technical Committee did not substantiate its "Meets requirements" assessments, breaching the Transparency Principle set out in MIDAGRI's State-to-State procurement directive and preventing verification of the basis for the outcome.
+- **Scoring inconsistencies:** the evaluation of the procurement bases contained inconsistencies that could affect the score allocation.
+- **Non-compliant winning bid:** the Committee failed to identify that the winning economic proposal included exclusions and commercial conditions contrary to the *Final Scope*, which required the bid to reflect the full cost of the service — creating a risk of cost overruns during execution.
+- **Unequal treatment of bidders:** the Committee required the disqualified State to meet criteria not included in the *Final Scope*, which were not demanded from the winning State, violating the Principle of Equal Treatment.
 
 🔗 [View official report (Contraloría General del Perú)](https://apps8.contraloria.gob.pe/SPIC/srvDownload/ViewPDF?CRES_CODIGO=2024CSIL33400034&TIPOARCHIVO=ADJUNTO)
 
@@ -39,7 +43,7 @@ The Technical Committee failed to identify that the winning economic proposal in
 **Year:** 2023
 
 **Key finding:**
-Inconsistencies detected in the evaluation of final technical proposals submitted by participating states, with potential impact on scoring outcomes and the integrity of the procurement process.
+In the State-to-State procurement of the Technical Assistance Service for the definitive (asphalt) solution on Road Axis 4 in Amazonas, the evaluation of the final technical proposals submitted by the participating States contained inconsistencies — creating a risk that the scoring and outcome of the procurement process could be affected.
 
 🔗 [View official report (Contraloría General del Perú)](https://apps8.contraloria.gob.pe/SPIC/srvDownload/ViewPDF?CRES_CODIGO=2023CSIL33400029&TIPOARCHIVO=ADJUNTO)
 
