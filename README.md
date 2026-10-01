@@ -10,8 +10,11 @@ Economist with experience in public sector audit and control at the **Contralor�
 
 ### 1. CHAVIMOCHIC Third Stage — Infrastructure Project Audit
 **Report:** Informe de Hito de Control N° 18242-2024-CG/MPROY-SCC
+
 **Entity:** Ministerio de Desarrollo Agrario y Riego (MIDAGRI)
+
 **Year:** 2024
+
 **Contract value:** Large-scale public infrastructure project
 
 **Key finding:**
