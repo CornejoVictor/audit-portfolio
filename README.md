@@ -9,6 +9,7 @@ Economist with experience in public sector audit and control at the **Contralor�
 ---
 
 ### 1. CHAVIMOCHIC Third Stage — Infrastructure Project Audit
+
 **Report:** Informe de Hito de Control N° 18242-2024-CG/MPROY-SCC
 
 **Entity:** Ministerio de Desarrollo Agrario y Riego (MIDAGRI)
@@ -25,8 +26,11 @@ Non-compliance with the conditions for submitting the *Work Programme* required 
 ---
 
 ### 2. Technical Assistance Procurement — Evaluation Irregularities
+
 **Report:** Informe de Hito de Control N° 4088-2024-CG/MPROY-SCC
+
 **Entity:** Ministerio de Desarrollo Agrario y Riego (MIDAGRI)
+
 **Year:** 2024
 
 **Key findings:**
@@ -41,8 +45,11 @@ The control review of the bidding documents, evaluation and scoring of final pro
 ---
 
 ### 3. Road Infrastructure — Technical Proposal Evaluation
+
 **Report:** Informe de Hito de Control N° 11199-2023-CG/MPROY-SCC
+
 **Entity:** Provias Nacional — Ministerio de Transportes y Comunicaciones
+
 **Year:** 2023
 
 **Key finding:**
@@ -53,8 +60,11 @@ In the State-to-State procurement of the Technical Assistance Service for the de
 ---
 
 ### 4. Health Center Construction — Commercial Closure Delays and Operational Deficiencies
+
 **Report:** Informe de Control Concurrente N° 23056-2023-CG/MPROY-SCC
+
 **Entity:** Autoridad para la Reconstrucción con Cambios (ARCC)
+
 **Year:** 2023
 
 **Key findings:**
@@ -66,8 +76,11 @@ The control review of the "Centro de Salud Limón de Porcuya I-3", identified ad
 🔗 [View official report (Contraloría General del Perú)](https://apps8.contraloria.gob.pe/SPIC/srvDownload/ViewPDF?CRES_CODIGO=2023CSIL33400095&TIPOARCHIVO=ADJUNTO)
 
 ### 5. Health Center Construction - Handover Without O&M Manuals and Equipment Deficiencies
+
 **Report:** Informe de Hito de Control N° 23396-2023-CG/MPROY-SCC
+
 **Entity:** Autoridad para la Reconstrucción con Cambios (ARCC)
+
 **Year:** 2023
 
 **Key findings:**
@@ -83,7 +96,7 @@ The control review of the completion and handover of the "Centro de Salud Pósop
 
 - Large-scale contract and documentation review
 - Inconsistency detection in procurement and financial data
-- Excel advanced analysis (pivot tables, formulas, data validation)
+- Excel advanced analysis
 - Formal audit report drafting (*informes de control*)
 - Coordination with public entities and external stakeholders
 
